@@ -10,7 +10,7 @@ docker pull hosamzolfonoon/fer_ml_tunning:1.0
 
 After pullin run it in interactive mode while exposing ip:
 
-docker run -ip 8888:8888 -it network-traffic-analysis:1.0
+docker run -ip 8888:8888 -it fer_ml_tunning:1.0
 
 3-Running the Associated Notebook
 
